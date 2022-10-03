@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/car-calrculator/static/css/main.ddcabbde.css",
+    "main.js": "/car-calrculator/static/js/main.f0772dd0.js",
+    "static/js/787.e13e2c92.chunk.js": "/car-calrculator/static/js/787.e13e2c92.chunk.js",
+    "static/media/Nekst-Black.ttf": "/car-calrculator/static/media/Nekst-Black.dffaebf93d38d4c41536.ttf",
+    "static/media/Gilroy-Light.ttf": "/car-calrculator/static/media/Gilroy-Light.0ac7c2f9cb59ea1ba11c.ttf",
+    "index.html": "/car-calrculator/index.html",
+    "main.ddcabbde.css.map": "/car-calrculator/static/css/main.ddcabbde.css.map",
+    "main.f0772dd0.js.map": "/car-calrculator/static/js/main.f0772dd0.js.map",
+    "787.e13e2c92.chunk.js.map": "/car-calrculator/static/js/787.e13e2c92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddcabbde.css",
+    "static/js/main.f0772dd0.js"
+  ]
+}
